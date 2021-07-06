@@ -47,11 +47,43 @@ h1{
 .recipies-width{
     width: 25%;
     margin-left: 5%;
-    margin-right: 5%;
-    padding:10px 10px;
+    margin-right: %;
+    padding:20px 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 1px 1px 17px 3px gray;
 }
 .recipies-width img{
     width: 100%;
     height: 200px;
     border-radius: 10px;
+    
 }
+.optional-section{
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-left: 65px;
+    margin-right: 65px;
+    box-shadow: 1px 1px 17px 3px gray;
+    
+}
+.social{
+    text-align: center;
+    width: 25%;
+    margin-left: 5%;  
+}
+.bottom-section{
+    height: 250px;
+    width: auto;
+    background-color: rgb(7, 0, 0);
+}
+.bottom-section {
+    color: gray;
+    text-align: center;
+    
+}
+ 
